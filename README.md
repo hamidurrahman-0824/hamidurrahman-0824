@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, I am Hamidur Rahman Majed
+#### Python learner on a 6-month journey to become a professional developer.
+Currently learning: Python basics, Git, and automation 
 
-<!--
-**hamidurrahman-0824/hamidurrahman-0824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on this page. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/hamidurrahman-0824)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/hamidur-rahman-majed-68b70a37b/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/hamidurrahman-0824&show_icons=true)  
+
+
+
