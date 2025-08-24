@@ -1,4 +1,4 @@
-### Hi there 👋, I am Hamidur Rahman Majed
+### Hi there, I am Hamidur Rahman Majed
 #### Python learner on a 6-month journey to become a professional developer.
 Currently learning: Python basics, Git, and automation 
 
