@@ -1,6 +1,5 @@
-### Hi there, I am Hamidur Rahman Majed
-#### Python learner on a 6-month journey to become a professional developer.
-Currently learning: Python, Pandas, Data Analysis, EDA
+Aspiring Data Analyst | IPE Student at SUST
+SQL · MySQL · Data Analysis · Python · pandas
 
 
 
